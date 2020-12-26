@@ -1,10 +1,9 @@
 import styled from 'styled-components'
-import ChristmasBox from './components/ChristmasBox/ChristmasBox'
 
 function App() {
   return (
     <StyledApp>
-      <ChristmasBox/>
+      Hi!
     </StyledApp>
   );
 }
